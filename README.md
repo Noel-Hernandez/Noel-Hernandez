@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noel Hernandez Sanabria</h1>
 <h3 align="center">I AM A STUDENT OF THE UCR IN COSTA RICA , I LIKE TO LEARN NEW THINGS EVERY DAY!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noel-hernandez" alt="noel-hernandez" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
