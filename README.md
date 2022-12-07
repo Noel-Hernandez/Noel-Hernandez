@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noel Hernandez Sanabria</h1>
-<h3 align="center">I AM A STUDENT OF THE UCR IN COSTA RICA , I LIKE TO LEARN NEW THINGS EVERY DAY!</h3>
+
 
 
 <h2 align="center">COMPUTER ENGINEER STUDENT!</h2>
