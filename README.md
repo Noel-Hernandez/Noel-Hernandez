@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">COMPUTER ENGINEER STUDENT!</h2>
+<h2 align="center">Software Developer!</h2>
 - 👯 I’m looking to collaborate on **on interesting projects**
 
 - 📫 How to reach me **noelhernanez283@gmail.com**
